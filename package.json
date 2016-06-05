@@ -1,0 +1,24 @@
+{
+  "name": "resvit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nodemon ./node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bower": "^1.7.9",
+    "chai": "^3.5.0",
+    "frisby": "^0.8.5",
+    "mocha": "^2.5.3",
+    "nodemon": "^1.9.2",
+    "restify": "^4.1.0",
+    "supertest": "^1.2.0",
+    "underscore": "^1.8.3",
+    "websocket": "^1.0.23",
+    "winston": "^2.2.0"
+  }
+}
